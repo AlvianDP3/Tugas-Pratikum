@@ -104,9 +104,13 @@ Tahap penerjemahan Desain ke HTML telah selesai, berikut ini adalah kode lengkap
 
 </body>
 </html>
+```
+
+![HTML](https://user-images.githubusercontent.com/56244029/116770765-33f9cc80-aa70-11eb-84b1-14eaf351b72a.png)
+
+
 
 #CSS
-
 ```
 .info a {
 	text-decoration:none;
@@ -199,6 +203,11 @@ li a:hover {
 	color:#00E1FF;
 }
 
+
+![CSS](https://user-images.githubusercontent.com/56244029/116770787-4ecc4100-aa70-11eb-9376-42fa257c6ea5.png)
+
+
+hasil dari kodingan di atasnya
 
 ![Tugas1](https://user-images.githubusercontent.com/56244029/116770445-50950500-aa6e-11eb-9c24-e4c6ec7225ee.png)
 
