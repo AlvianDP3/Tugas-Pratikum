@@ -198,7 +198,7 @@ li a:hover {
 .footer a:hover {
 	color:#00E1FF;
 }
-```
+
 
 ![Tugas1](https://user-images.githubusercontent.com/56244029/116770445-50950500-aa6e-11eb-9c24-e4c6ec7225ee.png)
 
