@@ -202,12 +202,13 @@ li a:hover {
 .footer a:hover {
 	color:#00E1FF;
 }
+```
 
 
 ![CSS](https://user-images.githubusercontent.com/56244029/116770787-4ecc4100-aa70-11eb-9376-42fa257c6ea5.png)
 
 
-hasil dari kodingan di atasnya
+# hasil dari kodingan di atasnya
 
 ![Tugas1](https://user-images.githubusercontent.com/56244029/116770445-50950500-aa6e-11eb-9c24-e4c6ec7225ee.png)
 
